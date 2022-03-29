@@ -1,15 +1,17 @@
 # flutter--simple-tracking-screen
 
-a simple tracking screen timebase with send trackData every minute(changable) to server...
+a simple tracking screen timebase with send trackData(navigation,pressable) every minute to server...
 this project also with my stract temple
 
 data tracking is :
-  *profile_id
-  *device_os
-  *name_Page
-  *timeToEnter(jalali date)
-  *timeToExit(jalali date)
-  *timeAveraged(secend)
+ *  namePage
+ *  profile_id
+ *  device_os
+ *  pageInfo
+ *  timeToEnter
+ *  timeToExit
+ *  timeAveraged
+ *  navigationBar
 
 # dependencies
 
